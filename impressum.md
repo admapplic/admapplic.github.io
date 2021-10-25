@@ -10,8 +10,8 @@ Diese Website benutzt Google Adsense, einen Webanzeigendienst der Google Inc., U
 Impressum vom <a href="https://www.impressum-generator.de">Impressum Generator</a> der <a href="https://www.kanzlei-hasselbach.de/standorte/frankfurt/" rel="nofollow">Kanzlei Hasselbach, Frankfurt</a> </div>
 
 <div class='impressum'><h1>Impressum</h1><p>Angaben gemäß § 5 TMG</p><p>Marcel Martin <br> 
-Eichenstraße 50<br> 
-87463 Dietmannsried <br> 
+Brunhamstraße 11<br> 
+81249 München <br> 
 </p><p> <strong>Vertreten durch: </strong><br>
 Marcel Martin<br>
 </p><p><strong>Kontakt:</strong> <br>
